@@ -6,5 +6,10 @@ As having a huge user behavior data density, Instacart work in recommendation of
 Based on previous orders the model have to predict what will user ultimately re-order, and with more precision, N number of most applicable recommendations for a user. For Deployment, Instacart as a company AB-Test every model for better user experience.
 
 
+Link to my medium blog : 
+
+https://raghav1999agg.medium.com/how-to-solve-instacart-market-basket-analysis-problem-in-kaggle-fd2cf7fa7055
+
+
 
 
